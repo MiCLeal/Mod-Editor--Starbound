@@ -1,0 +1,11 @@
+C:\Users\MichaelAnthony\ZLDS Entertainment\Milky Way\Editores de Mod\ModEditor.Starbound\bin\Release\ModEditor.Starbound.exe.config
+C:\Users\MichaelAnthony\ZLDS Entertainment\Milky Way\Editores de Mod\ModEditor.Starbound\bin\Release\ModEditor.Starbound.exe
+C:\Users\MichaelAnthony\ZLDS Entertainment\Milky Way\Editores de Mod\ModEditor.Starbound\bin\Release\ModEditor.Starbound.pdb
+C:\Users\MichaelAnthony\ZLDS Entertainment\Milky Way\Editores de Mod\ModEditor.Starbound\obj\Release\ModEditor.Starbound.csprojResolveAssemblyReference.cache
+C:\Users\MichaelAnthony\ZLDS Entertainment\Milky Way\Editores de Mod\ModEditor.Starbound\obj\Release\ModEditor.Starbound.AboutBox.resources
+C:\Users\MichaelAnthony\ZLDS Entertainment\Milky Way\Editores de Mod\ModEditor.Starbound\obj\Release\ModEditor.Starbound.MainForm.resources
+C:\Users\MichaelAnthony\ZLDS Entertainment\Milky Way\Editores de Mod\ModEditor.Starbound\obj\Release\ModEditor.Starbound.NewModUserControl.resources
+C:\Users\MichaelAnthony\ZLDS Entertainment\Milky Way\Editores de Mod\ModEditor.Starbound\obj\Release\ModEditor.Starbound.Properties.Resources.resources
+C:\Users\MichaelAnthony\ZLDS Entertainment\Milky Way\Editores de Mod\ModEditor.Starbound\obj\Release\ModEditor.Starbound.csproj.GenerateResource.Cache
+C:\Users\MichaelAnthony\ZLDS Entertainment\Milky Way\Editores de Mod\ModEditor.Starbound\obj\Release\ModEditor.Starbound.exe
+C:\Users\MichaelAnthony\ZLDS Entertainment\Milky Way\Editores de Mod\ModEditor.Starbound\obj\Release\ModEditor.Starbound.pdb

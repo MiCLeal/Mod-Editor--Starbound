@@ -1,0 +1,15 @@
+C:\Users\MichaelAnthony\ZLDS Entertainment\Milky Way\Editores de Mod\ModEditor.Starbound\obj\Debug\ModEditor.Starbound.AboutBox.resources
+C:\Users\MichaelAnthony\ZLDS Entertainment\Milky Way\Editores de Mod\ModEditor.Starbound\obj\Debug\ModEditor.Starbound.MainForm.resources
+C:\Users\MichaelAnthony\ZLDS Entertainment\Milky Way\Editores de Mod\ModEditor.Starbound\obj\Debug\ModEditor.Starbound.NewModUserControl.resources
+C:\Users\MichaelAnthony\ZLDS Entertainment\Milky Way\Editores de Mod\ModEditor.Starbound\obj\Debug\ModEditor.Starbound.Properties.Resources.resources
+C:\Users\MichaelAnthony\ZLDS Entertainment\Milky Way\Editores de Mod\ModEditor.Starbound\obj\Debug\ModEditor.Starbound.csproj.GenerateResource.Cache
+C:\Users\MichaelAnthony\ZLDS Entertainment\Milky Way\Editores de Mod\ModEditor.Starbound\obj\Debug\ModEditor.Starbound.csprojResolveAssemblyReference.cache
+C:\Users\MichaelAnthony\ZLDS Entertainment\Milky Way\Editores de Mod\ModEditor.Starbound\obj\Debug\ModEditor.Starbound.SettingModName.resources
+C:\Users\MichaelAnthony\ZLDS Entertainment\Milky Way\Editores de Mod\ModEditor.Starbound\bin\Debug\FastColoredTextBox.dll
+C:\Users\MichaelAnthony\ZLDS Entertainment\Milky Way\Editores de Mod\ModEditor.Starbound\bin\Debug\FastColoredTextBox.xml
+C:\Users\MichaelAnthony\ZLDS Entertainment\Milky Way\Editores de Mod\ModEditor.Starbound\obj\Debug\ModEditor.Starbound.CodeEditorForm.resources
+C:\Users\MichaelAnthony\ZLDS Entertainment\Milky Way\Editores de Mod\ModEditor.Starbound\bin\Debug\ModEditorStarbound.exe.config
+C:\Users\MichaelAnthony\ZLDS Entertainment\Milky Way\Editores de Mod\ModEditor.Starbound\bin\Debug\ModEditorStarbound.exe
+C:\Users\MichaelAnthony\ZLDS Entertainment\Milky Way\Editores de Mod\ModEditor.Starbound\bin\Debug\ModEditorStarbound.pdb
+C:\Users\MichaelAnthony\ZLDS Entertainment\Milky Way\Editores de Mod\ModEditor.Starbound\obj\Debug\ModEditorStarbound.exe
+C:\Users\MichaelAnthony\ZLDS Entertainment\Milky Way\Editores de Mod\ModEditor.Starbound\obj\Debug\ModEditorStarbound.pdb
